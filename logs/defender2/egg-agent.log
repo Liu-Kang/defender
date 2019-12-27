@@ -1,0 +1,61 @@
+2019-12-26 17:18:49,598 INFO 97204 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:18:49,609 INFO 97204 [egg:core] dump config after load, 5ms
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:18:49,660 INFO 97204 [egg-watcher:agent] watcher start success
+2019-12-26 17:18:49,670 INFO 97204 [egg:core] dump config after ready, 5ms
+2019-12-26 17:18:51,185 INFO 97204 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/liukang/Documents/entrance/work/github/defender/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12910643649,"size":64,"blocks":0,"atimeMs":1577351931173.4795,"mtimeMs":1577351931173.4795,"ctimeMs":1577351931173.4795,"birthtimeMs":1577351931173.4795,"atime":"2019-12-26T09:18:51.173Z","mtime":"2019-12-26T09:18:51.173Z","ctime":"2019-12-26T09:18:51.173Z","birthtime":"2019-12-26T09:18:51.173Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-12-26 17:19:23,150 INFO 97284 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:19:23,162 INFO 97284 [egg:core] dump config after load, 5ms
+2019-12-26 17:19:23,227 INFO 97284 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:19:23,227 INFO 97284 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:19:23,227 INFO 97284 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:19:23,227 INFO 97284 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:19:23,227 INFO 97284 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:19:23,228 INFO 97284 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:19:23,228 INFO 97284 [egg-watcher:agent] watcher start success
+2019-12-26 17:19:23,246 INFO 97284 [egg:core] dump config after ready, 7ms
+2019-12-26 17:32:42,815 INFO 98443 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:32:42,825 INFO 98443 [egg:core] dump config after load, 3ms
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:32:42,878 INFO 98443 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:32:42,879 INFO 98443 [egg-watcher:agent] watcher start success
+2019-12-26 17:32:42,891 INFO 98443 [egg:core] dump config after ready, 4ms
+2019-12-26 17:32:56,074 INFO 98480 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:32:56,084 INFO 98480 [egg:core] dump config after load, 3ms
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:32:56,117 INFO 98480 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:32:56,118 INFO 98480 [egg-watcher:agent] watcher start success
+2019-12-26 17:32:56,128 INFO 98480 [egg:core] dump config after ready, 3ms
+2019-12-26 17:33:36,020 INFO 98560 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:33:36,030 INFO 98560 [egg:core] dump config after load, 3ms
+2019-12-26 17:33:36,077 INFO 98560 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:33:36,077 INFO 98560 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:33:36,077 INFO 98560 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:33:36,078 INFO 98560 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:33:36,078 INFO 98560 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:33:36,078 INFO 98560 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:33:36,078 INFO 98560 [egg-watcher:agent] watcher start success
+2019-12-26 17:33:36,089 INFO 98560 [egg:core] dump config after ready, 3ms
+2019-12-26 17:35:39,125 INFO 98757 [egg:logger] init all loggers with options: {"dir":"/Users/liukang/Documents/entrance/work/github/defender/logs/defender2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"defender2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-26 17:35:39,137 INFO 98757 [egg:core] dump config after load, 4ms
+2019-12-26 17:35:39,298 INFO 98757 [egg-watcher] Start watching: ["/Users/liukang/Documents/entrance/work/github/defender/app","/Users/liukang/Documents/entrance/work/github/defender/config","/Users/liukang/Documents/entrance/work/github/defender/mocks","/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy","/Users/liukang/Documents/entrance/work/github/defender/app.js"]
+2019-12-26 17:35:39,298 INFO 98757 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app"
+2019-12-26 17:35:39,298 INFO 98757 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/config"
+2019-12-26 17:35:39,299 INFO 98757 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks"
+2019-12-26 17:35:39,299 INFO 98757 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/mocks_proxy"
+2019-12-26 17:35:39,299 INFO 98757 [egg-watcher] Start watching: "/Users/liukang/Documents/entrance/work/github/defender/app.js"
+2019-12-26 17:35:39,299 INFO 98757 [egg-watcher:agent] watcher start success
+2019-12-26 17:35:39,315 INFO 98757 [egg:core] dump config after ready, 6ms

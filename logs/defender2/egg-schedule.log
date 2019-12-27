@@ -1,0 +1,24 @@
+2019-12-26 17:18:50,940 INFO 97205 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:18:50,940 INFO 97205 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:18:50,941 INFO 97205 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-26 17:19:24,457 INFO 97291 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:19:24,457 INFO 97291 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:19:24,457 INFO 97291 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-26 17:32:43,904 INFO 98448 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:32:43,904 INFO 98448 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:32:43,904 INFO 98448 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-26 17:32:57,018 INFO 98481 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:32:57,018 INFO 98481 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:32:57,018 INFO 98481 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-26 17:32:57,143 INFO 98480 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39422861ms at 2019-12-27 04:30:00.004
+2019-12-26 17:32:57,143 INFO 98480 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23222857ms at 2019-12-27 00:00:00.000
+2019-12-26 17:32:57,143 INFO 98480 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23223857ms at 2019-12-27 00:00:01.000
+2019-12-26 17:33:36,983 INFO 98561 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:33:36,983 INFO 98561 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:33:36,983 INFO 98561 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-26 17:35:40,675 INFO 98757 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39259328ms at 2019-12-27 04:30:00.003
+2019-12-26 17:35:40,675 INFO 98757 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23059325ms at 2019-12-27 00:00:00.000
+2019-12-26 17:35:40,675 INFO 98757 [Timer] /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23060325ms at 2019-12-27 00:00:01.000
+2019-12-26 17:35:40,448 INFO 98760 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-26 17:35:40,448 INFO 98760 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-26 17:35:40,448 INFO 98760 [egg-schedule]: register schedule /Users/liukang/Documents/entrance/work/github/defender/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

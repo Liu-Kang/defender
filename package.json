@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "egg": "^2.15.1",
+    "egg-mysql": "^3.0.0",
     "egg-scripts": "^2.11.0"
   },
   "devDependencies": {
@@ -38,6 +39,17 @@
     "ci": "npm run lint && npm run cov",
     "autod": "autod",
     "log": "conventional-changelog -p angular -i CHANGELOG.md -s -w -r 0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint --env HUSKY_GIT_PARAMS",
+      "post-commit": "npm run log"
+    }
   },
   "ci": {
     "version": "10"
