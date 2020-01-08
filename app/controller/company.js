@@ -3,21 +3,21 @@
 const Controller = require('egg').Controller;
 
 class HomeController extends Controller {
-  async createUser() {
+  async addCompany() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
       message: '注册成功',
     }
   }
-  async updateUser() {
+  async getDetail() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
       message: '注册成功',
     }
   }
-  async getInfo() {
+  async postVote() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
