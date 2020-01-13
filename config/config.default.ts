@@ -12,6 +12,22 @@ export default (appInfo: EggAppInfo) => {
     'errorHandler'
   ];
 
+  config.cors = {
+    origin: 'http://localhost:3000',
+    allowMethods: 'GET, HEAD, PUT, POST, DELETE, PATCH, OPTIONS',
+    allowHeaders: 'access-token',
+    credentials: true
+  };
+
+  config.security = {
+    // 关闭csrf验证
+    csrf: {
+      enable: false
+    },
+    // 白名单
+    domainWhiteList: ['*']
+  };
+
   // add your special config in here
   const bizConfig = {
     sourceUrl: `https://github.com/eggjs/examples/tree/master/${appInfo.name}`,
