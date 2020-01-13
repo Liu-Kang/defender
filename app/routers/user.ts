@@ -1,9 +1,9 @@
-'use strict';
+import { Application } from 'egg';
 
 /**
  * 用户相关接口
  */
-module.exports = app => {
+export default (app:Application) => {
   const { router, controller } = app;
   router.post('/api/user/login', controller.user.login);
   router.post('/api/user/createUser', controller.user.createUser);

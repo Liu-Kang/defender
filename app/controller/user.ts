@@ -1,31 +1,28 @@
-'use strict';
+import { Controller } from 'egg';
 
-const Controller = require('egg').Controller;
-
-class UserController extends Controller {
-  async login() {
+export default class UserController extends Controller {
+  public async login() {
     const { ctx } = this;
     const createRule = {
       code: { type: 'string' },
     };
     ctx.validate(createRule);
-    
   }
-  async createUser() {
+  public async createUser() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
       message: '注册成功',
     };
   }
-  async updateUser() {
+  public async updateUser() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
       message: '注册成功',
     };
   }
-  async getInfo() {
+  public async getInfo() {
     const { ctx } = this;
     ctx.body = {
       code: 0,
@@ -33,5 +30,3 @@ class UserController extends Controller {
     };
   }
 }
-
-module.exports = UserController;
