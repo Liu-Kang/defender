@@ -17,6 +17,7 @@ config/**/*.js
 app/**/*.map
 test/**/*.map
 config/**/*.map
+app/config/wechat.ts
 
 CHANGELOG.md
 
