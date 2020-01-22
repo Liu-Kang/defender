@@ -11,5 +11,11 @@ export default (app) => {
     updateds: DATE,
   });
 
+  User.getUserInfoByOpenid = async function(openId: string) {
+    return await this.findOne({
+      where: { openId },
+    });
+  };
+
   return User;
 };

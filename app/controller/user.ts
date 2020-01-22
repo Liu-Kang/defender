@@ -1,8 +1,8 @@
 import { Controller } from 'egg';
 
 interface UserInfo {
-  openid: string,
-  unionid: string,
+  openid?: string,
+  unionid?: string,
 }
 
 export default class UserController extends Controller {
